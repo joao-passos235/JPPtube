@@ -1,0 +1,58 @@
+body {
+    color: rgb(228, 207, 20);
+    background: rgba(21, 83, 51, 0.382);
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    margin-bottom: 25px;
+}
+
+.cabeçalho {
+    border-bottom: solid rgb(99, 6, 6) 6px;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(99, 33, 33);
+    font-family: "Arvo", serif;
+}
+
+.inicio {
+    background: rgb(3 78 91);
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: "Lilita One", sans-serif;
+    border-bottom: solid rgb(99, 6, 6) 6px;
+    padding-top: 3%;
+    
+}
+
+.col {
+    margin-right: 10%;
+}
+h2 {
+    color: darkorchid;
+}
+.vid2 {
+    display: flex;
+    overflow-x: auto;
+    gap:5px;
+}
+.end { 
+    padding-left: 5%;
+    padding-right: 5%;
+    color:blue
+}
+.ger {
+    padding-top: 2px;
+}
+.hl {
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+.video-img img {
+    opacity: 0.6;
+    height: 250px;
+}
+.video-img img:hover{
+    opacity: 1;
+}
